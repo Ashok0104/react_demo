@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Hi I'm making changes in app .js
+        Edit <code>src/App.js</code> and Commit conflict on same file
         </p>
         <a
           className="App-link"
